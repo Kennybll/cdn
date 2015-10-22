@@ -2,6 +2,7 @@
 ## Documentation
 ### CDN:
 #### https://cdn.rawgit.com/Kennybll/cdn/master/ichurch.0.0.4.css
+#### https://cdn.rawgit.com/Kennybll/cdn/master/ichurch.0.0.1.js
 ###### Sermon API
 ```
 <div data-source="[YOUR URL]" id="sermonplayer"></div>
