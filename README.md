@@ -1,8 +1,8 @@
 # I-Church Framework
 ## Documentation
 ### CDN:
-#### https://cdn.rawgit.com/Kennybll/cdn/master/ichurch.0.0.4.css
-#### https://cdn.rawgit.com/Kennybll/cdn/master/ichurch.0.0.1.js
+#### https://cdn.i-church.tk/ichurch.js
+#### https://cdn.i-church.tk/ichurch.css
 ###### Sermon API
 ```
 <div data-source="[YOUR URL]" id="sermonplayer"></div>
